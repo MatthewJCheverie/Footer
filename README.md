@@ -1,2 +1,2 @@
-# ToDo
-To do app in react
+# Footer
+Reusable responsive footer wirttine in HTML, CSS
